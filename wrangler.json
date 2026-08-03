@@ -1,0 +1,12 @@
+{
+  "name": "net-brianlee",
+  "main": "src/index.jsx",
+  "compatibility_date": "2026-08-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "routes": [
+    {
+      "pattern": "brianlee.net",
+      "custom_domain": true
+    }
+  ]
+}
