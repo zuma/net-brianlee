@@ -1,11 +1,11 @@
 {
   "domain": "brianlee.net",
-  "managedBy": "standalone",
-  "title": "Brian Lee — Digital Portfolio & Systems Engineering",
-  "headline": "Brian Lee",
-  "subheadline": "Software Engineer, Web Architect & Creator building high-performance digital experiences.",
-  "badge": "Standalone Worker",
+  "managedBy": "parking",
+  "title": "brianlee.net — Digital Asset",
+  "headline": "brianlee.net is Reserved",
+  "subheadline": "Official web property registered and maintained under our digital portfolio.",
+  "badge": "Portfolio Asset",
   "accentColor": "#3b82f6",
   "contactEmail": "brian@brianlee.net",
-  "ctaText": "Get in Touch"
+  "ctaText": "Make an Offer"
 }
