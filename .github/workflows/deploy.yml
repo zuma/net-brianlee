@@ -1,4 +1,4 @@
-name: Deploy net_brianlee
+name: Deploy net-brianlee
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    name: Deploy net_brianlee Worker
+    name: Deploy net-brianlee Worker
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
