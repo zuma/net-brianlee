@@ -11,5 +11,6 @@
   },
   "devDependencies": {
     "wrangler": "^3.60.0"
-  }
+  },
+  "private": true
 }
