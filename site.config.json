@@ -1,11 +1,11 @@
 {
   "domain": "brianlee.net",
-  "managedBy": "parking",
+  "managedBy": "standalone",
   "title": "brianlee.net — Digital Asset",
   "headline": "brianlee.net is Reserved",
   "subheadline": "Official web property registered and maintained under our digital portfolio.",
   "badge": "Portfolio Asset",
   "accentColor": "#3b82f6",
-  "contactEmail": "brian@brianlee.net",
+  "contactEmail": "mailto@brianlee.net",
   "ctaText": "Make an Offer"
 }
